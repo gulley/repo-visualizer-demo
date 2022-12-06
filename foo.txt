@@ -1,0 +1,1 @@
+Testing the diagram rendering action.
